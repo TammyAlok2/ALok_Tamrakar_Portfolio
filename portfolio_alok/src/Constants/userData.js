@@ -5,8 +5,8 @@ export const userData = {
     location: "Satna , Madhya Pradesh",
     email: "aloktamrakar2@gmail.com",
     phone: "+91 9644905810",
-    website: "https://aloktamrakar.me",
-    resumeUrl: "https://drive.google.com/file/d/1tVZPGLe0Q_ReLzXJo3B-JbmaSwwx2Mrr/view?usp=sharing",
+    website: "https://a-lok-tamrakar-portfolio.vercel.app/",
+    resumeUrl: "https://drive.google.com/file/d/1FzT66UJ5CK4VdtX-3TGgH6veWELL8v7t/view?usp=sharing",
     avatar: "https://ik.imagekit.io/n86wkgui2/Alok%20image.jpg?updatedAt=1752950198544",
 
     // Availability
@@ -28,7 +28,7 @@ export const userData = {
     // Experience Stats
     stats: {
       experience: "1+",
-      projects: "5+",
+      projects: "10+",
       clients: "5+",
       coffees: "1000+",
     },
