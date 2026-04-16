@@ -4,9 +4,9 @@ export const projects = [
         title: "Bomboo World E-Commerce Platform",
         description:
             "A modern, scalable e-commerce solution built with Next.js and Razorpay integration. Features include real-time inventory, advanced search, and mobile-responsive design.",
-        image: "https://ik.imagekit.io/n86wkgui2/image.png?updatedAt=1752948972590",
+        image: "/images/bomboo-front.png",
         technologies: ["Next.js", "Javascript", "Node JS", "Tailwind CSS", "Razorpay", "MongoDB"],
-        liveUrl: "https://bombooworld.aloktamrakar.me/",
+        liveUrl: "https://bomboo-world-zeta.vercel.app/",
         githubUrl: "https://github.com/TammyAlok2/bomboo_world",
         featured: true,
         status: 'completed',
@@ -18,9 +18,9 @@ export const projects = [
         title: "Learners (LMS) - Learning Management System",
         description:
             "Learners (LMS) is a robust Learning Management System designed to facilitate online education and training. The platform offers features such as course creation, student enrollment, progress tracking, and interactive quizzes. Built with a focus on user experience, it leverages modern web technologies to deliver a seamless learning experience.",
-        image: "https://ik.imagekit.io/n86wkgui2/image.png?updatedAt=1752949297767",
+        image: "/images/learners-front.png",
         technologies: ["React", "Node.js", "Razorpay", "MongoDB", "Express"],
-        liveUrl: "https://lms.aloktamrakar.me/",
+        liveUrl: "https://learning-management-system-sandy-seven.vercel.app/",
         githubUrl: "https://github.com/TammyAlok2/Learning-Management-System-",
         featured: true,
         category: "Full Stack",
@@ -33,7 +33,7 @@ export const projects = [
         title: "Brahma UI ",
         description:
             "🚀 Brahma UI – A modern, lightweight, and customizable Tailwind CSS component library for building sleek and responsive UIs effortlessly. ",
-        image: "https://ik.imagekit.io/n86wkgui2/image.png?updatedAt=1752949493879",
+        image: "/images/brahma-front.png",
         technologies: ["React JS ", "Tailwind CSS"],
         liveUrl: "https://brahmaui.netlify.app/",
         githubUrl: "https://github.com/TammyAlok2/Brahma_UI",
